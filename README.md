@@ -1,2 +1,2 @@
-# ARAMPrediction
-ARAM Prediction Project in Doran's Lab
+# hyang23Project
+# ARAM_Prediction

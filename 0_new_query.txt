@@ -1,0 +1,3 @@
+select distinct gameVersion
+from match_list
+where queueid in (450,100) and badmatch = 0 and gameDuration > 15*60
